@@ -24,3 +24,4 @@ D:\Projects\Back\MVC.NET\MVC.NET\obj\Debug\net5.0\refint\MVC.NET.dll
 D:\Projects\Back\MVC.NET\MVC.NET\obj\Debug\net5.0\MVC.NET.pdb
 D:\Projects\Back\MVC.NET\MVC.NET\obj\Debug\net5.0\MVC.NET.genruntimeconfig.cache
 D:\Projects\Back\MVC.NET\MVC.NET\obj\Debug\net5.0\ref\MVC.NET.dll
+D:\Projects\Back\MVC.NET\MVC.NET\obj\Debug\net5.0\MVC.NET.sourcelink.json

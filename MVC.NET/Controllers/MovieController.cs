@@ -6,12 +6,12 @@ namespace MVC.NET.Controllers
     {
        
 
-        public IActionResult Index() {
+        public IActionResult Index(int id) {
             //ContentResult result = new ContentResult();
             //result.Content = "Welcome ybasha";
             //result.ContentType = "text/html";//Default
             //return result;
-            return Content("Welcome ybasha", "text/html");
+            return Content($"Welcome y{id}", "text/html");
         
         }
 
